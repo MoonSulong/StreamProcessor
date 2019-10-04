@@ -13,7 +13,7 @@ An application with Spark, Kafka, Flink and Flask
 - Optimized processing efficiency with `Flink`, and visualized 1% of filtered public Tweets with `Ajax` and `Flask` 
    
 ![Spring MVC framework](https://raw.githubusercontent.com/MoonSulong/StreamProcessor/master/img/pipeline.png)
-> Spring MVC framework
+> Kafka + Spark + Flask Pipeline
 
 ## 2. Spark Config
 - Develop Environment(Google Cloud)
