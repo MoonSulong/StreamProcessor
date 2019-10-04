@@ -12,7 +12,7 @@ An application with Spark, Kafka, Flink and Flask
 - A positive/negative keywords monitor in a consistent manner to handle 60 tweets per second with `Kafka`
 - Optimized processing efficiency with `Flink`, and visualized 1% of filtered public Tweets with `Ajax` and `Flask` 
    
-![Spring MVC framework](https://raw.githubusercontent.com/MoonSulong/Ecommerce/master/img/SpringMVC.png)
+![Spring MVC framework](https://raw.githubusercontent.com/MoonSulong/StreamProcessor/master/img/pipeline.png)
 > Spring MVC framework
 
 ## 2. Spark Config
