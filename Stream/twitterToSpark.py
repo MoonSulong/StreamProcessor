@@ -4,10 +4,10 @@ import requests
 import requests_oauthlib
 import json
 
-ACCESS_TOKEN = "1179972320334680064-EcHAA44S9Kbs8iwqeu1KG1bm0A6rwA"
-ACCESS_SECRET = "3hFIlO1LC5dOKgp5FPCBZn5uVt9r0VAWbWGSDS3kytihB"
-CONSUMER_KEY = "SxjRZlkvkVtA7wyC75HdKRyxy"
-CONSUMER_SECRET = "X0RKcTPjJWNgq78WZm10EyHMNlVgFRyWxOja1xMsY6MKBWxMiy"
+ACCESS_TOKEN = "xxxx"
+ACCESS_SECRET = "xxxx"
+CONSUMER_KEY = "xxxx"
+CONSUMER_SECRET = "xxxx"
 twitter_auth = requests_oauthlib.OAuth1(CONSUMER_KEY, CONSUMER_SECRET,ACCESS_TOKEN, ACCESS_SECRET)
 
 def streamTweets():  
