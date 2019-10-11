@@ -6,13 +6,17 @@ An application with Spark, Kafka, Flink and Flask
 * [2. Spark Config](#2-spark-config)
 * [3. Continue](#3-continue...)
 
+![Tweets Stream](https://raw.githubusercontent.com/MoonSulong/StreamProcessor/master/img/twitter.png)
+![Spark Processer](https://raw.githubusercontent.com/MoonSulong/StreamProcessor/master/img/spark.gif)
+> Kafka + Spark + Flask Pipeline
+
 ## 1. Project Description 
 
 - A framework with `Spark` to process real-time Twitter stream data based on hashtags for popular words analysis 
 - A positive/negative keywords monitor in a consistent manner to handle 60 tweets per second with `Kafka`
 - Optimized processing efficiency with `Flink`, and visualized 1% of filtered public Tweets with `Ajax` and `Flask` 
    
-![Spring MVC framework](https://raw.githubusercontent.com/MoonSulong/StreamProcessor/master/img/pipeline.png)
+![Pipeline](https://raw.githubusercontent.com/MoonSulong/StreamProcessor/master/img/pipeline.png)
 > Kafka + Spark + Flask Pipeline
 
 ## 2. Spark Config
