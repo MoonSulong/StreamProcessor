@@ -7,7 +7,6 @@ An application with Spark, Kafka, Flink and Flask
 * [3. Continue](#3-continue...)
 
 ![Tweets Stream](https://raw.githubusercontent.com/MoonSulong/StreamProcessor/master/img/twitter.png)
-![Spark Processer](https://raw.githubusercontent.com/MoonSulong/StreamProcessor/master/img/spark.gif)
 > Kafka + Spark + Flask Pipeline
 
 ## 1. Project Description 
